@@ -42,9 +42,4 @@ I specialize in the mathematical design and PyTorch implementation of complex ne
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) * **Email:** [your.email@example.com](mailto:your.email@example.com) * **Portfolio:** [yourportfolio.com](https://yourportfolio.com) ```
-
-### Why this structure works perfectly for your profile:
-1. **Instant Clarity:** A technical recruiter looking at your page immediately sees terms like *Bidirectional Multi-Head Cross-Attention*, *Optimal Transport*, and *Mean Matching* right away instead of generic programming descriptions. 
-2. **Architecture Focus:** By highlighting the structural flow (Two-branch processing $\rightarrow$ Multi-Head Attention $\rightarrow$ Distribution Alignment), you show how you solve end-to-end data processing bottlenecks.
-3. **Automated Metrics:** The live widgets near the bottom will automatically read the public code in your repositories to generate real-time statistics of your languages and commit activity under your username.
+* **LinkedIn:** https://www.linkedin.com/in/bhupathi-raju-kalyandheeraj/ * **Email:** bkalyandheeraj@gmail.com * ```
