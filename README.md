@@ -38,13 +38,6 @@ I specialize in the mathematical design and PyTorch implementation of complex ne
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkalyandheeraj2003&show_icons=true&theme=vision-not-only-dark&hide_border=true" alt="Kalyan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkalyandheeraj2003&layout=compact&theme=vision-not-only-dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ## 📫 Let's Connect
